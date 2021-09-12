@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Video Format Converter",
+  "name": "Convert .mp4 to HLS(.ts/.m3u8)",
   "icons": [
     {
       "src": "favicon.ico",
